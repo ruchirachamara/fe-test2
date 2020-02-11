@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+}
+#root {
+    background-image: url('../src/assets/design.png');
+    background-position: top center;
+    background-repeat: no-repeat;
+    width: 100%;
+    min-height: 600px;
+    height: 600px;
+    background-size: cover;
+}

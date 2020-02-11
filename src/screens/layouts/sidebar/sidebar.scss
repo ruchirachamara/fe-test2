@@ -1,0 +1,20 @@
+.sidebar {
+    padding: 10px 20px;
+    width: 8.8%;
+    display: flex;
+    flex-direction: row;
+    height: auto;
+    min-height: 800px;
+    background-color: #0000d3;
+    margin-left: 6px;
+
+    .row__aide-bar {
+        width: 100%;
+        
+        p {
+            color: #FFF;
+            font-size: 14px;
+            font-weight: bold;
+        }
+    }
+}
